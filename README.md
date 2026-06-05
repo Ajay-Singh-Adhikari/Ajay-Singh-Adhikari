@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f3460?style=for-the-badge&logo=vercel&logoColor=white)](https://ajay-portfolio-blush-nine.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-singh-adhikari-039415290)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f3460?style=for-the-badge&logo=netlify&logoColor=white)](https://ajayportfolio123.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-singh-adhikari-039415290/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaysinghadhikari697@gmail.com)
 
 </div>
