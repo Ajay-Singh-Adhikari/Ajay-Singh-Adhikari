@@ -65,6 +65,26 @@ I'm also involved in mentoring interns and first-year contributors, running outr
 
 ---
 
+## GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ajay-Singh-Adhikari&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Singh-Adhikari&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
 ## Tech I use
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
