@@ -36,16 +36,14 @@ Beyond coding, I help with team building and community outreach — including pi
 
 ## Featured Projects
 
-| Project | Tech | Live |
+| Project | What it does | Tech |
 |---|---|---|
-| [Tracker](https://github.com/Ajay-Singh-Adhikari/Tracker) | JavaScript | [tracker-theta-lilac.vercel.app](https://tracker-theta-lilac.vercel.app) |
-| [YT-Analysis](https://github.com/Ajay-Singh-Adhikari/YT-Analysis) | TypeScript | [yt-analysis-phi.vercel.app](https://yt-analysis-phi.vercel.app) |
-| [Team-Fnatic](https://github.com/Ajay-Singh-Adhikari/Team-Fnatic) | TypeScript | [prakarti-ke-yodhha.vercel.app](https://prakarti-ke-yodhha.vercel.app) |
-| [NISHAAN](https://github.com/Ajay-Singh-Adhikari/NISHAAN) | TypeScript | — |
-| [Wellness Portal](https://github.com/Ajay-Singh-Adhikari/Wellness_Portal) | JavaScript | — |
-| [CryptoTrack](https://github.com/Ajay-Singh-Adhikari/CryptoTrack_ReactJs) | React.js | — |
-| [Foody App](https://github.com/Ajay-Singh-Adhikari/Foody_App_ReactJs) | React.js | — |
-| [OpenEnv Hackathon](https://github.com/Ajay-Singh-Adhikari/OpenEnv-Hackathon) | Python | — |
+| [Alumni Connect](https://github.com/ColoredCow/alumni-connect) | Mentorship platform connecting students with alumni for career guidance | JavaScript |
+| [SankalpTaru Website](https://github.com/SankalpTaru-Foundation/sankalptaru-website) | Website for SankalpTaru Foundation — an environmental NGO | PHP |
+| [performance-adapter-wp](https://github.com/ColoredCow/performance-adapter-wp) | WordPress adapter for ColoredCow's Proactive Performance tool | PHP |
+| [cc-costwatch](https://github.com/ColoredCow/cc-costwatch) | Internal cost monitoring and tracking tool for ColoredCow | TypeScript |
+| [performance-dashboard](https://github.com/ColoredCow/performance-dashboard) | GTmetrix + Lighthouse → BigQuery → Looker Studio performance dashboard | JavaScript |
+| [Performance Strategy & Assets](https://github.com/ColoredCow/Performance-Strategy-and-Assets) | Strategy, assets and automation for ColoredCow's performance service vertical | — |
 
 ---
 
