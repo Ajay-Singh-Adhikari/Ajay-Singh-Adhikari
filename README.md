@@ -16,25 +16,30 @@
 
 ## About me
 
-I'm a software developer from the hills of Uttarakhand, India, working with [ColoredCow](https://coloredcow.com) — a tech company building practical software for NGOs, internal teams, and operations.
+I'm a software developer from the hills of Uttarakhand, India, working with [ColoredCow](https://coloredcow.com) — a tech company building practical software for NGOs, health platforms, internal teams, and community operations.
 
-I focus on building tools that solve real problems. I'm deeply involved in AI-assisted engineering workflows.
+My day-to-day spans full-stack web development, AI-assisted engineering workflows, and community outreach. At work I contribute to products like [OncoLens](https://github.com/ColoredCow) (a medical platform), [Alumni Connect](https://github.com/ColoredCow/alumni-connect) (a student–alumni mentorship network), and internal tooling for cost monitoring and performance tracking. On the side, I build personal projects that range from health trackers and wellness portals to YouTube analytics tools and crypto dashboards.
 
-Beyond coding, I help with team building and community outreach — including pitching open-source projects to engineering college students and onboarding new contributors to live products.
+I'm also involved in mentoring interns and first-year contributors, running outreach sessions at engineering colleges, and helping teams adopt AI-assisted code review workflows with Claude Code.
+
+Being a Software Engineer, I like problem solving, be it generic or specific.
 
 ---
 
 ## What I work on
 
-- Full-stack web apps and dashboards in React.js and Node.js
-- NGO and community platforms with [ColoredCow](https://coloredcow.com)
-- **Alumni Connect** — a mentorship platform connecting students with alumni for career guidance
-- AI workflow experiments using Claude Code and open-source tooling
-- Python scripts for data analysis, progress tracking, and hackathons
+- Full-stack web apps and dashboards in React.js, Node.js, and TypeScript
+- NGO and community platforms with [ColoredCow](https://coloredcow.com) — SankalpTaru, OncoLens, CII
+- **Alumni Connect** — mentorship platform connecting students with alumni for career guidance
+- **NISHAAN** — a TypeScript project focused on goal tracking and progress targeting
+- **YT-Analysis** — YouTube channel analytics and insights tool built in TypeScript
+- **Wellness Portal & My-Health** — personal health and wellness tracking applications
+- AI engineering workflows — Claude Code agents, skill-based automation, and engineering recipes
+- Python scripts for data analysis, one-pagers, and hackathon prototypes
 
 ---
 
-## Featured Projects
+## Work & Open Source Projects
 
 | Project | What it does | Tech |
 |---|---|---|
@@ -46,28 +51,23 @@ Beyond coding, I help with team building and community outreach — including pi
 
 ---
 
-## Tech I use
+## Personal Projects
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+| Project | What it does | Tech |
+|---|---|---|
+| [NISHAAN](https://github.com/Ajay-Singh-Adhikari/NISHAAN) | Goal and progress targeting app — "nishaan" means aim | TypeScript |
+| [YT-Analysis](https://github.com/Ajay-Singh-Adhikari/YT-Analysis) | YouTube channel analytics and insights tool | TypeScript |
+| [Wellness_Portal](https://github.com/Ajay-Singh-Adhikari/Wellness_Portal) | Full-stack wellness and health portal | JavaScript |
+| [My-Health](https://github.com/Ajay-Singh-Adhikari/My-Health) | Personal health tracking app | HTML/CSS/JS |
+| [Tracker](https://github.com/Ajay-Singh-Adhikari/Tracker) | General-purpose progress and activity tracker | JavaScript |
+| [CryptoTrack_ReactJs](https://github.com/Ajay-Singh-Adhikari/CryptoTrack_ReactJs) | Live crypto price dashboard built with React | JavaScript |
+| [OpenEnv-Hackathon](https://github.com/Ajay-Singh-Adhikari/OpenEnv-Hackathon) | Hackathon project — environmental data analysis | Python |
+| [Pathshala](https://github.com/Ajay-Singh-Adhikari/Pathshala) | School/educational portal prototype | JavaScript |
+| [Farming](https://github.com/Ajay-Singh-Adhikari/Farming) | Farming information and resource app | JavaScript |
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ajay-Singh-Adhikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Singh-Adhikari&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
-
-</div>
+## GitHub Streak
 
 <div align="center">
 
@@ -87,13 +87,19 @@ Beyond coding, I help with team building and community outreach — including pi
 
 ---
 
-## Trophies
+## Tech I use
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ajay-Singh-Adhikari&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
