@@ -18,7 +18,7 @@
 
 I'm a software developer from the hills of Uttarakhand, India, working with [ColoredCow](https://coloredcow.com) — a tech company building practical software for NGOs, internal teams, and operations.
 
-I focus on building full-stack web applications and tools that solve real problems — from student portals and health trackers to crypto dashboards and shipment tools. I work primarily in JavaScript, TypeScript, React, and Python, and I'm deeply involved in AI-assisted engineering workflows.
+I focus on building tools that solve real problems. I'm deeply involved in AI-assisted engineering workflows.
 
 Beyond coding, I help with team building and community outreach — including pitching open-source projects to engineering college students and onboarding new contributors to live products.
 
