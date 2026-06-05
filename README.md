@@ -43,7 +43,6 @@ Beyond coding, I help with team building and community outreach — including pi
 | [performance-adapter-wp](https://github.com/ColoredCow/performance-adapter-wp) | WordPress adapter for ColoredCow's Proactive Performance tool | PHP |
 | [cc-costwatch](https://github.com/ColoredCow/cc-costwatch) | Internal cost monitoring and tracking tool for ColoredCow | TypeScript |
 | [performance-dashboard](https://github.com/ColoredCow/performance-dashboard) | GTmetrix + Lighthouse → BigQuery → Looker Studio performance dashboard | JavaScript |
-| [Performance Strategy & Assets](https://github.com/ColoredCow/Performance-Strategy-and-Assets) | Strategy, assets and automation for ColoredCow's performance service vertical | — |
 
 ---
 
