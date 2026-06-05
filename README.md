@@ -22,6 +22,8 @@ My day-to-day spans full-stack web development, AI-assisted engineering workflow
 
 I'm also involved in mentoring interns and first-year contributors, running outreach sessions at engineering colleges, and helping teams adopt AI-assisted code review workflows with Claude Code.
 
+Being a Software Engineer, I like problem solving, be it generic or specific.
+
 ---
 
 ## What I work on
