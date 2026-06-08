@@ -20,8 +20,6 @@ I'm a software developer from the hills of Uttarakhand, India, working with [Col
 
 My day-to-day spans full-stack web development, AI-assisted engineering workflows, and community outreach. At work I contribute to products like [OncoLens](https://github.com/ColoredCow) (a medical platform), [Alumni Connect](https://github.com/ColoredCow/alumni-connect) (a student–alumni mentorship network), and internal tooling for cost monitoring and performance tracking. On the side, I build personal projects that range from health trackers and wellness portals to YouTube analytics tools and crypto dashboards.
 
-I'm also involved in mentoring interns and first-year contributors, running outreach sessions at engineering colleges, and helping teams adopt AI-assisted code review workflows with Claude Code.
-
 Being a Software Engineer, I like problem solving, be it generic or specific.
 
 ---
